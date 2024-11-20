@@ -38,7 +38,7 @@ export default function LoginForm() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-[#fafafa] px-4">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-[#fafafa] px-4 mt-20">
       <div className="w-full max-w-[350px] bg-white border border-gray-200 rounded p-10 mb-2.5">
         <div className="flex justify-center mb-8">
           <img
